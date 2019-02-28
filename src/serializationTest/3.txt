@@ -1,0 +1,22 @@
+Round: 2
+  
+Computer:
+   Score: 5
+   Hand: HJ D8 
+   Pile: H2 D3 H5 
+ 
+Human:
+   Score: 9
+   Hand: C2 CA S9
+   Pile: 
+
+Table: [H3 S4] DA D5 CK C8 H6 S8 
+
+Build Owner: [H3 S4] Computer
+
+Last Capturer: Human
+
+Deck: C6 D9  HQ S7 H7 H4 D7 C9 H9 SK SA SQ H8  C4 C5 DK S5 DX DJ S3 D6 SX  CX S6 SJ DQ HA  C7 CJ D2 S2 CQ C3 D4 HK
+
+Next Player: Human
+

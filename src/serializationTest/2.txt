@@ -1,0 +1,19 @@
+Round: 2
+  
+Computer:
+   Score: 9
+   Hand: C6 H5 D9
+   Pile: CK H4 D7 C9 H9 S9 CX C2 S6 H6 D8 SJ CQ DQ HA CJ D2 DX 
+ 
+Human:
+   Score: 10
+   Hand: S7 D5 HQ
+   Pile: SX S8 DK DA H7 C8 HJ CA C4 C5 DJ SA S2 S4 S5 S3 D6 H2 D3 C7 H3 SQ H8 SK HX
+
+Table: C3 D4 HK
+
+Last Capturer: Computer
+
+Deck:  
+
+Next Player: Computer
